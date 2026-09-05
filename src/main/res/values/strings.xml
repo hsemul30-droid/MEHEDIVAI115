@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MEHEDIVAI115 Taskbar</string>
+    <string name="show_apps">Show Apps</string>
+    <string name="close">Close</string>
+    <string name="minimize">Minimize</string>
+    <string name="maximize">Maximize</string>
+</resources>
